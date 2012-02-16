@@ -18,7 +18,7 @@ $(function() {
 		mario = $("#background .level .mario-sprite");
 		marioImg = new Image();
 		
-	marioImg.src = "assets/mariosprite.png";
+	marioImg.src = "/assets/mariosprite.png";
 	mario.append(marioImg);
 
 	var pos = [8,13 - $(window).height()/16],
