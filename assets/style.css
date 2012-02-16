@@ -26,6 +26,14 @@ a:hover {
   text-decoration: underline;
 }
 
+#logo {
+    float: left;
+	width: 200px;
+	height: 100px;
+	background-image : url(/assets/logo.png);
+	
+}
+
 #wrapper {
   position: relative;
   width: 960px;
