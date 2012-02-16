@@ -13,10 +13,9 @@
 	height : 248px;
 	width : 3392px;
 	position : absolute;
-	bottom : -16px;
+	bottom : -17px;
 	left : 0px;
 	background-image : url(/assets/mariobackground.png);
-/*	overflow-x : hidden;*/
 }
 
 #background .overlay {
@@ -34,17 +33,4 @@
 	overflow : hidden;
 	position : absolute;
 	left : -999px;
-}
-
-
-#background .text-1 {
-	position : absolute;
-	left : 1650px;
-	top : -120px;
-}
-
-#background .text-2 {
-	position : absolute;
-	left : 3100px;
-	top : -180px;
 }
