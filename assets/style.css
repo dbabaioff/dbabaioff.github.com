@@ -3,6 +3,7 @@ body {
   line-height: 1.4;
   color: #666;
   min-width: 960px;
+  overflow-y: hidden;
 }
 
 h1 {
@@ -28,8 +29,8 @@ a:hover {
 
 #logo {
     float: left;
-	width: 200px;
-	height: 100px;
+	width: 432px;
+	height: 48px;
 	background-image : url(/assets/logo.png);
 	
 }
