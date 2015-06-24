@@ -34,10 +34,9 @@ a:hover {
 
 #logo {
     float: left;
-	width: 432px;
+    width: 432px;
 	height: 48px;
 	background-image : url(/assets/logo.png);
-	
 }
 
 #wrapper {
